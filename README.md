@@ -1,2 +1,9 @@
-# GROUPE4-GIT
+# GROUPE4-GIT B1A Keyce
+Membres du groupe: 
+   EBOL HONG DADDY YVAN
+   PEDIE MOISE EDDY (pas travailler )
+   ISSA ETOKE
+   SILENOU JOSIAS
+   TALLA KONO AUSTIN RYAN
+   
 CC GIT
