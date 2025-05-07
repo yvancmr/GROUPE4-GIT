@@ -1,0 +1,46 @@
+body {
+  font-family: Arial, sans-serif;
+  text-align: center;
+  background-color:rgb(12, 245, 82);
+  padding: 20px;
+}
+
+.puzzle-container {
+  display: grid;
+  grid-template-columns: repeat(3, 80px);
+  grid-template-rows: repeat(3, 80px);
+  gap: 5px;
+  margin: 20px auto;
+}
+
+.tile {
+  background-color:rgb(151, 12, 250);
+  color: rgb(28, 2, 2);
+  font-size: 24px;
+  font-weight: bold;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  cursor: pointer;
+  user-select: none;
+  border-radius: 5px;
+}
+
+.empty {
+  background-color: #f7e70c;
+  cursor: default;
+}
+
+.controls {
+  margin-top: 20px;
+}
+
+.hidden {
+  display: none;
+}
+
+#victoryMessage {
+  font-size: 20px;
+  color: rgb(19, 0, 128);
+  margin-top: 15px;
+}
